@@ -5,7 +5,7 @@ You like too many songs on Spotify and add them into too many playlists... but o
 
 ## What this simple app uses:
 - Spotipy wrapper
-- OAuth2
+- OAuth2 for user authentication
 - my time and effort
 
 <h2>What does it do, basically?</h2>
