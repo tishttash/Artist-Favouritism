@@ -13,7 +13,7 @@ Goes through all your user-owned playlists and picks out the tracks by the speci
 
 
 ### Additional Notes: 
-- my app's client credentials are ... obviously not in here. make sure you grab them from your own Spotify Developer Dashboard after creating a new app and add them into your own client credentials file to be imported! (mine was named clientcreds, edit the name accordingly)
+- my app's client credentials are ... obviously not in here. make sure you grab them from your own Spotify Developer Dashboard after creating a new app and add them into your own client credentials file (mine was named clientcreds, edit the name accordingly)
 - remove access from this app via your Spotify account WILL break it, because I didn't bother with the code to handle that. you would have to create a whole new app and redo the authorization process.
 - some parts of my code might not seem vErY PyThoNic because I'm pretty nooby so go easy on me <3
 - I made this because this was a huge problem I faced believe it or not. Haha. Enjoy the app I didn't bother to make a GUI for it because it seemed too niche.
