@@ -1,19 +1,17 @@
 # Artist-Favouritism
 
-## This you?
-You like too many songs on Spotify and add them into too many playlists... but one day you only feel like listening to [insert artist's name here] but oh no you don't remember which of your playlists you've added their tracks to. Well yup this pretty much solves your issue homie.
+i have too many songs on Spotify and add them into too many playlists... but maybe one day i only feel like listening to twenty one pilots but oh no i do not remember which of my playlists i've added their tracks to. Well yup this pretty much sums up the motivation for this script.
 
 ## What this simple app uses:
 - Spotipy wrapper
 - OAuth2 for user authentication
-- my time and effort
+- my blood sweat and tears
 
 <h2>What does it do, basically?</h2>
-Goes through all your user-owned playlists and picks out the tracks by the specified artist. Compiles them into a new playlist for you! 
+Goes through all my user-owned playlists and picks out the tracks by the specified artist. Compiles them into a new playlist 💜
 
 
 ### Additional Notes: 
-- my app's client credentials are ... obviously not in here. make sure you grab them from your own Spotify Developer Dashboard after creating a new app and add them into your own client credentials file (mine was named clientcreds, edit the name accordingly)
-- remove access from this app via your Spotify account WILL break it, because I didn't bother with the code to handle that. you would have to create a whole new app and redo the authorization process.
-- some parts of my code might not seem vErY PyThoNic because I'm pretty nooby so go easy on me <3
-- I made this because this was a huge problem I faced believe it or not. Haha. Enjoy the app I didn't bother to make a GUI for it because it seemed too niche.
+- removing access from this app via your Spotify account WILL break it, because I didn't bother to handle that. i think you would have to create a whole new app and redo the authorization process.
+- some parts of my code might not seem vErY PyThoNic because i noob so go easy on me :')
+- I made this because this was a huge problem I faced believe it or not HAHAHA 
