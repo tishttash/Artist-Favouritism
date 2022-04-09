@@ -1,6 +1,6 @@
 # Artist-Favouritism
 
-i have too many songs on spotify and add them into too many playlists... but maybe one day i only feel like listening to twenty one pilots but oh no!!! i do not remember which of my playlists i've added their tracks to!!! Well yup this pretty much sums up the motivation for this script.
+i have too many songs on spotify and add them into too many playlists... and if one day I just feel like listening to all the songs i like from one (1) artist, i can't do that !!! therefore i made this app. purely for me and my own dumb problems.
 
 ## What this simple app uses:
 - Spotipy wrapper
