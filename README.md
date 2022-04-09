@@ -15,4 +15,4 @@ Goes through all my user-owned playlists and picks out the tracks by the specifi
 ### Additional Notes: 
 - removing access from this app via your Spotify account will break it, because I didn't bother to handle that. i think you would have to redo the authorization process.
 - my code is noob cos i am noob. but as long as it works then it works yknow?
-- I made this because this was a huge problem I faced believe it or not lmao
+- I made this because this was a huge problem I faced believe it or not lmao and i couldn't stand it...
