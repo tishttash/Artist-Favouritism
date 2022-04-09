@@ -12,6 +12,6 @@ Goes through all my user-owned playlists and picks out the tracks by the specifi
 
 
 ### Additional Notes: 
-- removing access from this app via your Spotify account WILL break it, because I didn't bother to handle that. i think you would have to create a whole new app and redo the authorization process.
-- some parts of my code might not seem vErY PyThoNic because i noob so go easy on me :')
-- I made this because this was a huge problem I faced believe it or not HAHAHA 
+- removing access from this app via your Spotify account will break it, because I didn't bother to handle that. i think you would have to redo the authorization process.
+- my code is noob cos i am noob. but as long as it works then it works yknow?
+- I made this because this was a huge problem I faced believe it or not lmao
