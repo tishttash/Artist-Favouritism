@@ -9,7 +9,7 @@ i have too many songs on spotify and add them into too many playlists... and if 
 - my blood sweat and tears
 
 <h2>What does it do, basically?</h2>
-Goes through all my user-owned playlists and picks out the tracks by the specified artist. Compiles them into a new playlist 💜
+Goes through all my user-owned playlists and picks out the tracks by the specified artist. Compiles them into a new playlist 💜 (which I will proceed to delete when I am sick of it.)
 
 
 ### Additional Notes: 
