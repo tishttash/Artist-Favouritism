@@ -17,6 +17,7 @@ If refresh token has been revoked:
 2. Delete .cache file (hidden file on mac, use shift+cmd+. to unhide)
 3. Re-run artist_favouritism.py
 
-**Additional Notes:**
+
+## Additional Notes:
 - my code is quite trash i think. but as long as it works then it works yknow
 - I made this because this was actually a huge problem I faced believe it or not...
