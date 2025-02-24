@@ -1,9 +1,9 @@
 # Artist-Favouritism
-For when I have the urge to listen to all the songs i like from a specific artist, which i've added to different playlists.
+For when I have the urge to listen to only the songs I like from a specific artist.
 
 ## What it does
 Goes through all my created playlists and picks out the tracks by the specified artist.  
-Compiles them into a new playlist (which I will proceed to delete soon enough when I am sick of it.)
+Compiles them into a new playlist (which I will proceed to delete after i get sick of loooping it lol!)
 
 
 ## How to run locally:
@@ -19,6 +19,7 @@ If refresh token has been revoked:
 3. Re-run artist_favouritism.py
 
 
-## Additional Notes:
-- my code is quite trash i think. but as long as it works then it works yknow
-- I made this because this was actually a huge problem I faced believe it or not...
+## Authors' Notes:
+- my code is quite trash honestly. but as long as it works then it works ;)
+- I made this mainly for my own problem haha. But have since sent this script to a few friends who saw it and saw the use-cases for it too. happy to share!
+- might make a UI for it some day when i'm free
