@@ -53,6 +53,7 @@ for playlist in user_playlists1['items']:
     if playlist_owner == SPOTIPY_USER_ID:
         user_owned_playlists_id.append(playlist_id)
 
+# identical for loop because spotify api only allows max 50 playlists to search
 for playlist in user_playlists2['items']:
     playlist_id = playlist['id']
     playlist_name = playlist['name']
