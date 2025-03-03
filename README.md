@@ -3,13 +3,15 @@ For when I have the urge to listen to only the songs I like from a specific arti
 
 ## What it does
 Goes through all my created playlists and picks out the tracks by the specified artist.  
-Compiles them into a new playlist (which I will proceed to delete after i get sick of loooping it lol!)
+Compiles them into a new playlist (which I will proceed to delete after i get sick of loooping it...)
 
 
-## How to run locally:
-1. Navigate to root directory
-2. Run the script (artist_favouritism.py) with python
-3. Follow instructions on script
+## How to run:
+1. Can only be run locally for now 
+2. Go to spotify developer and create an app
+3. Find your client id and client secret credentials and add it to the 'clientcreds.py' file
+4. Find your user id and add it to the 'clientcreds.py' file
+5. Run the script locally with python3
 
 
 ## Troubleshooting:
